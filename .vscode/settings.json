@@ -1,0 +1,4 @@
+{
+    "debug.hideSlowPreLaunchWarning": true,
+    "cmake.ignoreCMakeListsMissing": true
+}
